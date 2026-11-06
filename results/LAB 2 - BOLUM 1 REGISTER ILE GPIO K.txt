@@ -1,0 +1,35 @@
+LAB 2 - BOLUM 1: REGISTER ILE GPIO KONTROLU
+
+Kart: ESP32
+ESP-IDF: v6.1
+Proje: lab2_gpio
+LED pini: GPIO4
+
+--- REGISTER ILE AYARLAMA ---
+IO_MUX GPIO4 : 0x00002800
+RTC PAD0     : 0x42000000
+GPIO PIN4    : 0x00000000
+GPIO OUT SEL : 0x00000500
+GPIO4 ENABLE : 1
+GPIO4 OUT    : 0
+
+1: LED yandi
+1: LED sondu
+2: LED yandi
+2: LED sondu
+3: LED yandi
+3: LED sondu
+4: LED yandi
+4: LED sondu
+5: LED yandi
+5: LED sondu
+
+--- GPIO_CONFIG SONRASI ---
+IO_MUX GPIO4 : 0x00002800
+RTC PAD0     : 0x42000000
+GPIO PIN4    : 0x00000000
+GPIO OUT SEL : 0x00000500
+GPIO4 ENABLE : 1
+GPIO4 OUT    : 0
+
+Lab 2 - Bolum 1 tamamlandi.

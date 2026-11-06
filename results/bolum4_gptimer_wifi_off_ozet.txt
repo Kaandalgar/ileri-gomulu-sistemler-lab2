@@ -1,0 +1,9 @@
+--- OLCUM OZETI ---
+Yontem: GPTimer
+Wi-Fi: OFF
+Ornek sayisi: 1000
+Minimum periyot: 1000 us
+Maksimum periyot: 1000 us
+Ortalama periyot: 1000.000 us
+Tepe-tepe degisim: 0 us
+Olcum tamamlandi.

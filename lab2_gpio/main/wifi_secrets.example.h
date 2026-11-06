@@ -1,0 +1,4 @@
+﻿#pragma once
+
+#define WIFI_SSID "WIFI_ADINIZ"
+#define WIFI_PASSWORD "WIFI_PAROLANIZ"

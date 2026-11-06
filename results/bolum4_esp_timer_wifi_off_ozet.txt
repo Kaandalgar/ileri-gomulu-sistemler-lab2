@@ -1,0 +1,9 @@
+--- OLCUM OZETI ---
+Yontem: esp_timer (TASK)
+Wi-Fi: OFF
+Ornek sayisi: 1000
+Minimum periyot: 952 us
+Maksimum periyot: 1000 us
+Ortalama periyot: 999.952 us
+Tepe-tepe degisim: 48 us
+Olcum tamamlandi.

@@ -1,0 +1,10 @@
+﻿**/build/
+**/.vscode/
+**/.devcontainer/
+**/managed_components/
+**/.clangd/
+**/sdkconfig.old
+**/__pycache__/
+wifi_secrets.h
+*.log
+**/.clangd
