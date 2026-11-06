@@ -3,7 +3,7 @@
 İleri Gömülü Sistemler dersi kapsamında GPIO register erişimi, kesmeler, yazılımsal debounce ve zamanlayıcı ölçümleri.
 
 **Hazırlayan:** İbrahim Kaan Dalğar  
-**Tarih:** 6 Kasım 2026
+
 
 ## Donanım ve yazılım
 
